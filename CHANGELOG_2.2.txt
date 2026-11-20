@@ -1,0 +1,9 @@
+BLOCK GRID v2.2 – 8x8 BOARD
+
+- Changed the classic gameplay board from 10x10 to 8x8.
+- Updated board snapshots, save/load validation, drawing, placement bounds and line-clear loops through the shared board-size constant.
+- Kept the 3-piece tray, drag/tap placement, row/column clearing, scoring, combo and one-time revive flow.
+- Revive now clears about 32% of occupied cells, with an 8-cell minimum when enough occupied cells are available.
+- Existing saved 10x10 sessions are safely rejected by the board-size validation and a fresh 8x8 game starts.
+
+Source validation: javac against local Android API stubs. This is not a full Android SDK/Gradle build and no APK is included.

@@ -1,0 +1,11 @@
+BLOCK GRID v2.5 – VISUAL UPDATE
+
+- Added animated aurora-style background lighting and twinkling particles.
+- Upgraded title with cyan/violet/mint gradient and accent underline.
+- Updated block palette to brighter, more saturated colors.
+- Added moving glass-shine highlight to block tiles.
+- Added layered glow to the board frame.
+- Improved empty board cells with gradients and fine outlines.
+- Added gradient score panels and piece tray cards.
+- Added subtle pulse around the selected piece card.
+- Kept existing game rules, board size, revive logic, and custom block image support unchanged.

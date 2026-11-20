@@ -1,0 +1,7 @@
+BLOCK GRID v2.1 – GAMEPLAY + REVIVE ONLY
+
+Giữ gameplay xếp khối cổ điển: bàn 10x10, 3 khối mỗi lượt, kéo/chạm để đặt, xóa hàng/cột, tính điểm và lưu điểm cao.
+Khi hết nước đi, chọn REVIVE để tiếp tục một lần trong mỗi ván. Hồi sinh dọn ngẫu nhiên khoảng 32% ô đã chiếm, giữ nguyên điểm; hoặc chọn PLAY AGAIN/RESTART.
+Đã ẩn các chế độ phụ, thống kê, cài đặt, nhiệm vụ, cửa hàng và booster để tập trung vào gameplay.
+
+AIDE: mở BlockGrid_AIDE. Android Studio: mở BlockGrid_AndroidStudio. Đây là mã nguồn, cần build bằng Android SDK để tạo APK.

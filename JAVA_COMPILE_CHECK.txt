@@ -1,0 +1,7 @@
+JAVA SOURCE CHECK – BLOCK GRID v2.5
+
+Result: PASS
+Command: javac -encoding UTF-8 -d <output> <local Android API stubs> MainActivity.java
+Both AIDE and Android Studio MainActivity.java sources are identical and passed the same Java source compilation check.
+
+Scope: Java source syntax/type check against local API stubs only. This does not replace a build with the Android SDK/Gradle, APK signing, or testing on a physical Android device.
